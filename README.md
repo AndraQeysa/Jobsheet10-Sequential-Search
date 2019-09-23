@@ -1,1 +1,21 @@
+# Latihan
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Latihan1.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputL1.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Latihan2.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputL2.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Latihan3.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputL3.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Latihan4.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputL4.jpg)
 
+# Praktikum
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Praktikum1.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputP1False.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputP1True.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Praktikum2.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputP2.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Praktikum3.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputP3.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Praktikum4a.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/Praktikum4b.jpg)
+![alt teks](https://github.com/AndraQeysa/Jobsheet10-Sequential-Search/blob/master/OutputP4.jpg)
